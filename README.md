@@ -63,4 +63,4 @@ build out a project with one model and wire up that model using Django Views.
 
 ## Links:
 
-PR Link :[lab26](https://github.com/baselatalla/django-models/pull/1)
+PR Link :[lab27](https://github.com/baselatalla/django-models/pull/1)
